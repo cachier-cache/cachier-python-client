@@ -1,4 +1,4 @@
-from base_python_package_template.main import greetings
+from cachier_client.main import greetings
 
 
 class TestMain:
