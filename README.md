@@ -17,7 +17,7 @@ A template of README best practices to make your README simple to understand and
 Install the package using pip:
 
 ```sh
-pip install base
+pip install cachier_client
 ```
 
 ## Usage
