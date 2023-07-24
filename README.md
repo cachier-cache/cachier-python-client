@@ -23,10 +23,16 @@ pip install base
 ## Usage
 
 ```python
-from base_python_package_template import greetings
+from cachier_client import CachierClient
 
-greeting = greetings()
-print(greeting)
+client = CachierClient("localhost", 8080).connect()
+
+print("should be None:", client.get("greetings"))
+client.set("greetings", "Hello, World!", 10)
+print("should be something:", client.get("greetings"))
+import time
+time.sleep(11)
+print("should be None:", client.get("greetings"))
 ```
 
 ## Support
