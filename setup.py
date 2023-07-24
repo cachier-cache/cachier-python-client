@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="cachier-client",
-    version="0.1.0",
+    version="0.2.0",
     author="apinanyogaratnam",
     author_email="apinanapinan@icloud.com",
     description="A cachier python client package",
