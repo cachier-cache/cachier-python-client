@@ -1,7 +1,7 @@
-# Base Python Template
+# Cachier Python Client
 
 [![Downloads](https://static.pepy.tech/personalized-badge/base-python-package-template?period=total&units=none&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/base-python-package-template)
-[![Test](https://github.com/apinanyogaratnam/base-python-package-template/actions/workflows/test.yaml/badge.svg)](https://github.com/apinanyogaratnam/base-python-package-template/actions/workflows/test.yaml)
+[![Test](https://github.com/cachier-cache/cachier-python-client/actions/workflows/test.yaml/badge.svg)](https://github.com/cachier-cache/cachier-python-client/actions/workflows/test.yaml)
 
 A template of README best practices to make your README simple to understand and easy to use.
 
@@ -31,8 +31,8 @@ print(greeting)
 
 ## Support
 
-Please [open an issue](https://github.com/apinanyogaratnam/base-python-package-template/issues/new) for support.
+Please [open an issue](https://github.com/cachier-cache/cachier-python-client/issues/new) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/apinanyogaratnam/base-python-package-template/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/cachier-cache/cachier-python-client/compare/).
