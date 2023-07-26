@@ -1,5 +1,10 @@
 # Cachier Python Client
 
+<!--
+TODO:
+    - fix hardcoded bytes of 1024?
+-->
+
 [![Downloads](https://static.pepy.tech/personalized-badge/base-python-package-template?period=total&units=none&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/base-python-package-template)
 [![Test](https://github.com/cachier-cache/cachier-python-client/actions/workflows/test.yaml/badge.svg)](https://github.com/cachier-cache/cachier-python-client/actions/workflows/test.yaml)
 
